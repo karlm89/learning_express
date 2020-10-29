@@ -1,0 +1,11 @@
+body {
+    height: 100vh;
+    background: rgb(38,45,47);
+    background: linear-gradient(145deg, rgba(38,45,47,1) 67%, rgba(29,33,39,1) 100%);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+    color: #74C4AA;
+    font-family: 'Montserrat', sans-serif;
+}
